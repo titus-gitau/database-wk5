@@ -1,4 +1,4 @@
--- Use the salesdb database
+
 USE salesdb;
 
 
